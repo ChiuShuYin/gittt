@@ -31,4 +31,4 @@ Hello World
 Hello World
 ```
 
-![](./ntub.jpg)
+![](./dog.jpg)
